@@ -1,1 +1,2 @@
 C:\Users\KREMPELS\Documents\Semester_1\Git_test\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\KREMPELS\Documents\Semester_1\Git_test\test_repository\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config

@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <CheckBox x:Name="chkStudent" Content="Student" HorizontalAlignment="Left" Margin="100,250,100,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="cbxHochschule" HorizontalAlignment="Left" Margin="161,114,0,0" VerticalAlignment="Top" Width="120"/>
+
     </Grid>
 </Window>
